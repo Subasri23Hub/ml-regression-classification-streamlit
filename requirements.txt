@@ -1,5 +1,5 @@
-matplotlib==3.x.x
-numpy==1.x.x
-pandas==2.x.x
-scikit-learn==1.x.x
-streamlit==1.x.x
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
